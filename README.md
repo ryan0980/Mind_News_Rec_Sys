@@ -1,6 +1,6 @@
 
 # News Recommendation System - MIND Dataset
-
+[PDF Report](./20240920_AML_HW1_Report.pdf)
 ## Overview
 
 This project is part of **CSCI 6365 Advanced Machine Learning** coursework, where I implemented a news recommendation system using various collaborative filtering approaches. The dataset used is **MIND-small**, provided by Microsoft, which contains user interactions with news articles. The approaches used in this project include:
